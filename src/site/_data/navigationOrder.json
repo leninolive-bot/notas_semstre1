@@ -1,0 +1,93 @@
+{
+  "/": [
+    "Hola chicos",
+    "Materias"
+  ],
+  "/Materias": [
+    "Elec y Magnetismo",
+    "Intro IIOS",
+    "Procesos Administrativos",
+    "Proyectos",
+    "Química"
+  ],
+  "/Materias/Elec y Magnetismo": [
+    "Tipos de corriente",
+    "Electricidad"
+  ],
+  "/Materias/Elec y Magnetismo/Tipos de corriente": [
+    "Corriente Alterna",
+    "Corriente Continua"
+  ],
+  "/Materias/Intro IIOS": [
+    "Eficacia",
+    "Eficiencia",
+    "Entradas",
+    "Ingeniería",
+    "Productividad",
+    "Salidas"
+  ],
+  "/Materias/Procesos Administrativos": [
+    "14 principios de la administración",
+    "Administración",
+    "Análisis de la industria",
+    "Caracteristicas de un administrador",
+    "Efecto Hawthorne",
+    "Elton Mayo",
+    "Estrategía",
+    "Habilidades administrativas",
+    "Henry Fayol",
+    "Henry Mintzberg",
+    "Metas de los administradores",
+    "Michael Porter",
+    "Misión",
+    "Personajes Procesos Administrativos",
+    "Planeación",
+    "Planes de acción",
+    "Políticas",
+    "Proceso",
+    "Superávit",
+    "Taylorismo",
+    "Visión"
+  ],
+  "/Materias/Proyectos": [
+    "Caracteristicas de un proyecto",
+    "Desarrollo (parte del proceso)",
+    "Necesidad",
+    "Objetivos"
+  ],
+  "/Materias/Química": [
+    "Tipos de espectros",
+    "Tipos de Radiación",
+    "Albert Einstein",
+    "Amplitud",
+    "Base experimental de la teoría cuántica",
+    "Cuanto (Cantidad de energía fija)",
+    "Efecto Fotoeléctrico",
+    "Frecuencia",
+    "Frecuencia umbral",
+    "Ley Planck",
+    "Longitud de onda",
+    "Max Planck",
+    "Ondas",
+    "Personajes Química",
+    "Tres problemas clave",
+    "Velocidad de la luz"
+  ],
+  "/Materias/Química/Tipos de espectros": [
+    "Espectro continuo",
+    "Espectro de absorción",
+    "Espectro de emisión",
+    "Espectro de líneas",
+    "Espectros de la Materia",
+    "Serie espectral"
+  ],
+  "/Materias/Química/Tipos de Radiación": [
+    "Luz visible",
+    "Microondas",
+    "Ondas de Radio",
+    "Radiacion del cuerpo negro",
+    "Radiación electromagnética",
+    "Radiación térmica",
+    "Rayos X y Rayos Gamma"
+  ]
+}
