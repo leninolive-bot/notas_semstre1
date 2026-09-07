@@ -9,4 +9,4 @@
 [[Materias/Procesos Administrativos/Elton Mayo\|Elton Mayo]]
 [[Materias/Procesos Administrativos/Henry Mintzberg\|Henry Mintzberg]]
 [[Materias/Procesos Administrativos/Michael Porter\|Michael Porter]]
-
+[[Materias/Procesos Administrativos/Peter Drucker\|Peter Drucker]]
